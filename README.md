@@ -13,9 +13,6 @@
 
 - ⚡ Fun fact **I am definetly C00L**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeorgeJ100&theme=zenburn" /></p>
 
