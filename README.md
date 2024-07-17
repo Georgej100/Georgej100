@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **a 6502 ROM emulator and a uci chess engine**
+- 🔭 I’m currently working on **a 6502 ROM emulator and a x86 OS**
 
 - 🌱 I’m currently learning **Operating systems and C/C++**
 
