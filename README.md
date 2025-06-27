@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **a 6502 ROM emulator and a x86 OS**
+- 🔭 I’m currently working on **a Chess Engine and other side-quests!**
 
-- 🌱 I’m currently learning **Operating systems and C/C++**
+- 🌱 I’m currently learning **C/C++ and other computer related things**
 
-- 👯 I’m looking to collaborate on **an emulator**
+- 👯 I’m looking to collaborate on **anything Low Level and technical**
 
 - ⚡ Fun fact **I am definetly C00L**
 
